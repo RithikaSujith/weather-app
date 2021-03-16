@@ -17,6 +17,7 @@ body{
 
 .app.warm{
   background-image: url('./assets/warm.jpg');
+  background-position: top;
 }
 
 
